@@ -1,5 +1,5 @@
 # Ciencia-de-Dados
-Repositório destinado à documentos teóricos, códigos (SQL, Python e R) e projetos de Data Science
+Repositório destinado à documentos teóricos e códigos (SQL, Python e R)
 
 Uéliton de Brito Viana
 #Uellwar
